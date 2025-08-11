@@ -41,3 +41,15 @@ UBlockOrigin
 
 
 
+## Image Editor
+
+GIMP 
+
+
+
+## Drawing App
+Krita
+
+
+
+## 

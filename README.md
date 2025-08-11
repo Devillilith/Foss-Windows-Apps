@@ -25,30 +25,30 @@ My List of Foss Windows Software
 
 [Notepad++](https://notepad-plus-plus.org/)
 
-Vim
+[Vim](https://www.vim.org/download.php)
 
 
 
 ## Office Alternative
 
-LibreOfficeSuite
+[LibreOfficeSuite](https://www.libreoffice.org/download/download-libreoffice/?type=win-x86_64&version=25.2.5&lang=en-US)
 
 
 
 ## Ad Blocker
 
-UBlockOrigin
+[UBlockOrigin](https://github.com/gorhill/uBlock)
 
 
 
 ## Image Editor
 
-GIMP 
+[GIMP](https://www.gimp.org/)
 
 
 
 ## Drawing App
-Krita
+[Krita](https://krita.org/en/download/)
 
 
 

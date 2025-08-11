@@ -9,59 +9,61 @@ My List of Foss Windows Software
 
 ## Browsers
 
-[FireFox](https://www.firefox.com/en-US/) - Web Browser made by Mozilla, good with privacy and easy extensions
+### [FireFox](https://www.firefox.com/en-US/) 
+- Web Browser made by Mozilla, good with privacy and easy extensions
 
-[LibreWolf](https://librewolf.net/installation/windows/) - A derived fork of FireFox made by
+### [LibreWolf](https://librewolf.net/installation/windows/) 
+- A derived fork of FireFox made by
 
-[WaterFox](https://www.waterfox.net/)
+### [WaterFox](https://www.waterfox.net/)
 
-[DuckDuckGo](https://duckduckgo.com/windows?origin=funnel_home_google)
+### [DuckDuckGo](https://duckduckgo.com/windows?origin=funnel_home_google)
 
-[Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows)
+### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows)
 
 
 
 ## Text Editor
 
-[Notepad++](https://notepad-plus-plus.org/)
+### [Notepad++](https://notepad-plus-plus.org/)
 
-[Vim](https://www.vim.org/download.php)
+### [Vim](https://www.vim.org/download.php)
 
 
 
 ## Office Alternative
 
-[LibreOfficeSuite](https://www.libreoffice.org/download/download-libreoffice/?type=win-x86_64&version=25.2.5&lang=en-US)
+### [LibreOfficeSuite](https://www.libreoffice.org/download/download-libreoffice/?type=win-x86_64&version=25.2.5&lang=en-US)
 
 
 
 ## Ad Blocker
 
-[UBlockOrigin](https://github.com/gorhill/uBlock)
+### [UBlockOrigin](https://github.com/gorhill/uBlock)
 
 
 
 ## Image Editor
 
-[GIMP](https://www.gimp.org/)
+### [GIMP](https://www.gimp.org/)
 
 
 
 ## Drawing App
-[Krita](https://krita.org/en/download/)
+### [Krita](https://krita.org/en/download/)
 
 
 
 ## Media Player
 
-[VLC](https://code.videolan.org/videolan/vlc)
+### [VLC](https://code.videolan.org/videolan/vlc)
 
 
 
 ## Messaging 
 
-[Matrix](https://matrix.org/)
+### [Matrix](https://matrix.org/)
 
-[Telegram](https://telegram.org/)
+### [Telegram](https://telegram.org/)
 
 ##

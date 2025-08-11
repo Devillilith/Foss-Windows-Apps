@@ -9,13 +9,13 @@ My List of Foss Windows Software
 
 ## Browsers
 
-FireFox
+[FireFox](https://www.firefox.com/en-US/)
 
-LibreWolf
+[LibreWolf](https://librewolf.net/installation/windows/)
 
-WaterFox
+[WaterFox](https://www.waterfox.net/)
 
-DuckDuckGo
+[DuckDuckGo](https://duckduckgo.com/windows?origin=funnel_home_google)
 
 Ungoogled Chromium
 

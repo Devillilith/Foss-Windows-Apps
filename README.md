@@ -62,6 +62,6 @@ VLC
 
 [Matrix](https://matrix.org/)
 
-Telegram
+[Telegram](https://telegram.org/)
 
 ##

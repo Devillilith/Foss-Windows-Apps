@@ -13,7 +13,7 @@ My List of Foss Windows Software
 - Web Browser made by Mozilla, good with privacy and easy extensions
 
 ### [LibreWolf](https://librewolf.net/installation/windows/) 
-- A derived fork of FireFox made by
+- A derived fork of FireFox removing Features such as telemetry and tracking
 
 ### [WaterFox](https://www.waterfox.net/)
 

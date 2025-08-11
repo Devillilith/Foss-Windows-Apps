@@ -52,4 +52,16 @@ Krita
 
 
 
-## 
+## Media Player
+
+VLC
+
+
+
+## Messaging 
+
+Matrix
+
+Telegram
+
+##

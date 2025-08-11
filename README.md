@@ -60,7 +60,7 @@ VLC
 
 ## Messaging 
 
-Matrix
+[Matrix](https://matrix.org/)
 
 Telegram
 

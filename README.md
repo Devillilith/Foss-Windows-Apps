@@ -17,7 +17,7 @@ My List of Foss Windows Software
 
 [DuckDuckGo](https://duckduckgo.com/windows?origin=funnel_home_google)
 
-Ungoogled Chromium
+[Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows)
 
 
 

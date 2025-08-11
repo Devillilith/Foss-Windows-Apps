@@ -23,7 +23,7 @@ My List of Foss Windows Software
 
 ## Text Editor
 
-Notepad++
+[Notepad++](https://notepad-plus-plus.org/)
 
 Vim
 

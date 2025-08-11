@@ -26,32 +26,35 @@ My List of Foss Windows Software
 ## Text Editor
 
 ### [Notepad++](https://notepad-plus-plus.org/)
+- Like basic notepad but adds support for multiple coding languages and more features to help development
 
 ### [Vim](https://www.vim.org/download.php)
+- An efficient and extremely customizable text editor and writer
 
 
 
 ## Office Alternative
 
 ### [LibreOfficeSuite](https://www.libreoffice.org/download/download-libreoffice/?type=win-x86_64&version=25.2.5&lang=en-US)
+- Suite with editors for documents, spreadsheets, presentations, diagrams, databases, formula editors, and charts
 
 
 
 ## Ad Blocker
 
-### [UBlockOrigin](https://github.com/gorhill/uBlock)
-
+### [uBlockOrigin](https://github.com/gorhill/uBlock)
+- Ad Blocker that restricts unwanted content such as ads and popups 
 
 
 ## Image Editor
 
 ### [GIMP](https://www.gimp.org/)
-
+- An open source Image Editor under the Gnu licensing, similar to Photoshop
 
 
 ## Drawing App
 ### [Krita](https://krita.org/en/download/)
-
+- An open source drawing app with many features and drawing tools
 
 
 ## Media Player

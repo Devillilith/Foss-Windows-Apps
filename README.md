@@ -9,9 +9,9 @@ My List of Foss Windows Software
 
 ## Browsers
 
-[FireFox](https://www.firefox.com/en-US/)
+[FireFox](https://www.firefox.com/en-US/) - Web Browser made by Mozilla, good with privacy and easy extensions
 
-[LibreWolf](https://librewolf.net/installation/windows/)
+[LibreWolf](https://librewolf.net/installation/windows/) - A derived fork of FireFox made by
 
 [WaterFox](https://www.waterfox.net/)
 

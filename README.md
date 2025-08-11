@@ -54,7 +54,7 @@ My List of Foss Windows Software
 
 ## Media Player
 
-VLC
+[VLC](https://code.videolan.org/videolan/vlc)
 
 
 

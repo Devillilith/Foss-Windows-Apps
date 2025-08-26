@@ -35,6 +35,9 @@ My List of Foss and my tools for Practically everything
 ### [Vim](https://www.vim.org/download.php)
 - An efficient and extremely customizable text editor and writer
 
+### [NeoVim](https://neovim.io/)
+- A feature rich fork of Vim with added features to add More productivity
+
 
 
 ## Office Alternative
@@ -106,13 +109,18 @@ My List of Foss and my tools for Practically everything
 
 ## Text Editor
 
-### Vim
+### [Vim](https://www.vim.org/download.php)
 - An efficient and Extremely Customizable Text editor
 
-###NeoVim
-- 
+### [NeoVim](https://neovim.io/)
+- A feature rich fork of Vim with added features to add More productivity
 
 
+
+## Coding
+
+### [VSCodium](https://vscodium.com/)
+- A free open source version of Microsoft's VsCode
 
 
 

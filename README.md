@@ -16,12 +16,13 @@ My List of Foss and my tools for Practically everything
 - A derived fork of FireFox removing Features such as telemetry and tracking
 
 ### [WaterFox](https://www.waterfox.net/)
+- 
 
 ### [DuckDuckGo](https://duckduckgo.com/windows?origin=funnel_home_google)
--A private open source browser written in Perl and Javascript
+- A private open source browser written in Perl and Javascript
 
 ### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows)
--A forked version of Chrome removing tracking and unneeded features, while also removing google almost entirely from it
+- A forked version of Chrome removing tracking and unneeded features, while also removing google almost entirely from it
 
 
 
@@ -62,13 +63,21 @@ My List of Foss and my tools for Practically everything
 ## Media Player
 
 ### [VLC](https://code.videolan.org/videolan/vlc)
+- The classic and universally loved VLC, open source video player with most codecs that exist
 
 
 
 ## Messaging 
 
 ### [Matrix](https://matrix.org/)
+- An encrypted messaging system with many different clients you can use
 
 ### [Telegram](https://telegram.org/)
+- Very private messengers with many communities for many things
 
-##
+
+
+## Coding
+
+### [VSCodium](https://vscodium.com/)
+- A free open source version of Microsoft's VsCode

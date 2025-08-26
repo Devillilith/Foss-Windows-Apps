@@ -92,4 +92,29 @@ My List of Foss and my tools for Practically everything
 
 
 
-#Linux
+# Linux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Android

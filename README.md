@@ -82,3 +82,14 @@ My List of Foss and my tools for Practically everything
 
 ### [VSCodium](https://vscodium.com/)
 - A free open source version of Microsoft's VsCode
+
+
+
+
+
+
+
+
+
+
+#Linux

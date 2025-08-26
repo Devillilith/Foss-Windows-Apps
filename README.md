@@ -148,7 +148,28 @@ My List of Foss and my tools for Practically everything
 
 # Android
 
+## App Store Alternatives
 
+### [Aurora Store](https://auroraoss.com/files)
+- FOSS alternative to The Google Play Store, for those like me that dont want to use many Google Services, Some apps will ned MicroG
+
+### [F-Droid](https://f-droid.org/)
+- An app store that has Many FOSS apps  
+
+## Browsers
+
+### [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
+- FOSS browser On FDroid 
+
+### [DuckDuckGO](https://f-droid.org/es/packages/com.duckduckgo.mobile.android/)
+-FOSS Web Browser And Search Engine
+## Messenging
+
+### [Matrix](https://matrix.org/)
+- An encrypted messaging system with many different clients you can use
+
+### [Telegram](https://telegram.org/)
+- Very private messengers with many communities for many things
 
 
 

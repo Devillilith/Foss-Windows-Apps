@@ -94,6 +94,24 @@ My List of Foss and my tools for Practically everything
 
 # Linux
 
+## Browsers
+
+### Firefox
+- Open source browser made for privacy by Mozilla
+
+### DuckDuckGo
+- A private open source browser written in Perl and JavaScript
+
+
+
+## Text Editor
+
+### Vim
+- An efficient and Extremely Customizable Text editor
+
+###NeoVim
+- 
+
 
 
 

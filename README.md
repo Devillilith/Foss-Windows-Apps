@@ -1,4 +1,4 @@
-# Foss-Windows-Apps
+# Foss-Apps-and-Tools
 My List of Foss and my tools for Practically everything 
 
 

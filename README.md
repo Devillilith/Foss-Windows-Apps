@@ -6,7 +6,7 @@ My List of Foss and my tools for Practically everything
 
 
 
-# Windows
+# Windows 10/11
 
 ## Browsers
 

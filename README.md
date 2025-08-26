@@ -16,7 +16,7 @@ My List of Foss and my tools for Practically everything
 - A derived fork of FireFox removing Features such as telemetry and tracking
 
 ### [WaterFox](https://www.waterfox.net/)
-- 
+- A fork of Firefox with less unneeded features
 
 ### [DuckDuckGo](https://duckduckgo.com/windows?origin=funnel_home_google)
 - A private open source browser written in Perl and Javascript

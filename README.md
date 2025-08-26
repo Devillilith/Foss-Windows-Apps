@@ -1,5 +1,5 @@
 # Foss-Windows-Apps
-My List of Foss Windows Software
+My List of Foss and my tools for Practically everything 
 
 
 
@@ -18,8 +18,10 @@ My List of Foss Windows Software
 ### [WaterFox](https://www.waterfox.net/)
 
 ### [DuckDuckGo](https://duckduckgo.com/windows?origin=funnel_home_google)
+-A private open source browser written in Perl and Javascript
 
 ### [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium-windows)
+-A forked version of Chrome removing tracking and unneeded features, while also removing google almost entirely from it
 
 
 

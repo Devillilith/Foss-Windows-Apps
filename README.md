@@ -99,11 +99,14 @@ My List of Foss and my tools for Practically everything
 
 ## Browsers
 
-### Firefox
+### [Firefox](
 - Open source browser made for privacy by Mozilla
 
-### DuckDuckGo
+### [DuckDuckGo](
 - A private open source browser written in Perl and JavaScript
+
+### [LibreWolf](https://librewolf.net/installation/windows/) 
+- A derived fork of FireFox removing Features such as telemetry and tracking
 
 
 
